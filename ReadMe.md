@@ -1,5 +1,5 @@
 # Crossing-the-river
----
+
 Author: @[skyswordx](https://github.com/skyswordx) @[humble-learner006](https://github.com/humble-learner006)@还在等什么，就是你！！
 
 | 版本 | 说明 | 备注 |
@@ -7,7 +7,7 @@ Author: @[skyswordx](https://github.com/skyswordx) @[humble-learner006](https://
 |v0.0.0|建立ReadMe文档，用python完成基本建模|无|
 
 # 项目说明
----
+
 这是一个利用解决过河问题的文件，并进行二次开发的项目
 目前有下面一些方向可以继续开发
 
